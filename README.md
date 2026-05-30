@@ -41,3 +41,21 @@ A full-stack CRUD application built using **Spring Boot** and **React** for mana
 | Email         | String  |
 | Mobile Number | String  |
 | Marks         | Integer |
+
+## 📚 CRUD Operations
+
+### Create
+
+Add a new student record.
+
+### Read
+
+View all student records.
+
+### Update
+
+Modify existing student information.
+
+### Delete
+
+Remove student records from the database.
