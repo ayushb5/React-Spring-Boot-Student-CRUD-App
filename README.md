@@ -59,3 +59,7 @@ Modify existing student information.
 ### Delete
 
 Remove student records from the database.
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned:
