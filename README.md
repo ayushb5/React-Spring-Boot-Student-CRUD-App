@@ -67,3 +67,7 @@ Through this project, I learned:
 - Spring Boot REST API Development
 - React Component Architecture
 - CRUD Operations
+- Axios API Integration
+- MySQL Database Management
+- JPA Repository Usage
+- Frontend-Backend Communication
