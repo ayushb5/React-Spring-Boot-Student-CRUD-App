@@ -63,3 +63,7 @@ Remove student records from the database.
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
+
+- Spring Boot REST API Development
+- React Component Architecture
+- CRUD Operations
